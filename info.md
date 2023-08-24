@@ -6,6 +6,7 @@ Web Site dev
 - HTML
 - CSS
 - javaScript
+- GIT
 - UI Tools
 - Freamworkes
 
